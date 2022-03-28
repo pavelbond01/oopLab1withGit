@@ -1,0 +1,34 @@
+﻿<Window x:Class="WpfOOPLab1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfOOPLab1"
+        mc:Ignorable="d"
+        Title="Shapes" Height="450" Width="800">
+    <DockPanel>
+        <ToolBar DockPanel.Dock="Top" Name="mainToolBar" Height="50">
+            <RadioButton Name="circleOption" GroupName="shapeSelection" Click="circleOption_Click">
+                <Ellipse Fill="Green" Height="35" Width="35"/>
+            </RadioButton>
+            <RadioButton Name="squareOption" GroupName="shapeSelection" Click="squareOption_Click">
+                <Rectangle Fill="Indigo" Height="35" Width="35"/>
+            </RadioButton>
+            <RadioButton Name="ellipseOption" GroupName="shapeSelection" Click="ellipseOption_Click">
+                <Ellipse Fill="Gold" Height="25" Width="55"/>
+            </RadioButton>
+            <RadioButton Name="rectOption" GroupName="shapeSelection" Click="rectOption_Click">
+                <Rectangle Fill="Red" Height="25" Width="55"/>
+            </RadioButton>
+            <RadioButton Name="lineOption" GroupName="shapeSelection" Click="lineOption_Click">
+                <Line Stroke="Black" Height="35" Width="35" StrokeThickness="10" X1="0" Y1="0" X2="35" Y2="35" />
+            </RadioButton>
+            <Label Content="Высота:"/>
+            <TextBox Name="txtHeight" HorizontalAlignment="Left" TextWrapping="Wrap" Text="50" VerticalAlignment="Top" Width="30" />
+            <Label Content="Ширина:"/>
+            <TextBox Name="txtWidth" HorizontalAlignment="Left" TextWrapping="Wrap" Text="100" VerticalAlignment="Top" Width="30" />
+
+        </ToolBar>
+        <Canvas Background="LightBlue" Name="canvasDrawingArea" MouseLeftButtonDown="canvasDrawingArea_MouseLeftButtonDown"/>
+    </DockPanel>
+</Window>

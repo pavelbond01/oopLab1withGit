@@ -1,0 +1,16 @@
+C:\work\WPF\WpfOOPLab1\WpfOOPLab1\bin\Debug\WpfOOPLab1.exe.config
+C:\work\WPF\WpfOOPLab1\WpfOOPLab1\bin\Debug\WpfOOPLab1.exe
+C:\work\WPF\WpfOOPLab1\WpfOOPLab1\bin\Debug\WpfOOPLab1.pdb
+C:\work\WPF\WpfOOPLab1\WpfOOPLab1\obj\Debug\WpfOOPLab1.csproj.AssemblyReference.cache
+C:\work\WPF\WpfOOPLab1\WpfOOPLab1\obj\Debug\WpfOOPLab1.csproj.SuggestedBindingRedirects.cache
+C:\work\WPF\WpfOOPLab1\WpfOOPLab1\obj\Debug\MainWindow.g.cs
+C:\work\WPF\WpfOOPLab1\WpfOOPLab1\obj\Debug\App.g.cs
+C:\work\WPF\WpfOOPLab1\WpfOOPLab1\obj\Debug\WpfOOPLab1_MarkupCompile.cache
+C:\work\WPF\WpfOOPLab1\WpfOOPLab1\obj\Debug\WpfOOPLab1_MarkupCompile.lref
+C:\work\WPF\WpfOOPLab1\WpfOOPLab1\obj\Debug\MainWindow.baml
+C:\work\WPF\WpfOOPLab1\WpfOOPLab1\obj\Debug\WpfOOPLab1.g.resources
+C:\work\WPF\WpfOOPLab1\WpfOOPLab1\obj\Debug\WpfOOPLab1.Properties.Resources.resources
+C:\work\WPF\WpfOOPLab1\WpfOOPLab1\obj\Debug\WpfOOPLab1.csproj.GenerateResource.cache
+C:\work\WPF\WpfOOPLab1\WpfOOPLab1\obj\Debug\WpfOOPLab1.csproj.CoreCompileInputs.cache
+C:\work\WPF\WpfOOPLab1\WpfOOPLab1\obj\Debug\WpfOOPLab1.exe
+C:\work\WPF\WpfOOPLab1\WpfOOPLab1\obj\Debug\WpfOOPLab1.pdb
